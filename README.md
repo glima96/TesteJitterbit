@@ -51,9 +51,6 @@ Como testar no seu computador
           }
       ]
     }'
-    
-    Consultando:
-    Você pode listar todos os pedidos acessando http://localhost:3000/order/list no seu navegador.
 
 Desenvolvido por:
 
